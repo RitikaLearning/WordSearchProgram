@@ -1,0 +1,5 @@
+D:\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+D:\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+D:\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+D:\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+D:\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
